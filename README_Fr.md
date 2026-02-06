@@ -1,4 +1,4 @@
-
+<img width="354" height="94" alt="image" src="https://github.com/user-attachments/assets/5eee1c33-b1b3-458e-838d-651fbbee655e" />
 # 🦾 reBot-DevArm: Open Source Robotic Arm for All Developers
 
 <p align="center">
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<a href="https://discord.gg/YKNfUMCk">
+<a href="https://discord.gg/AbGuqJhDpQ">
     <img src="https://img.shields.io/discord/1409155673572249672?color=7289DA&label=Discord&logo=discord&logoColor=white"></a>
 <a href="https://wiki.seeedstudio.com/robotics_page/">  
     <img src="https://img.shields.io/badge/Documentation-📕-blue" alt="robotics wiki"></a>
