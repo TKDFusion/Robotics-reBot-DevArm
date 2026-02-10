@@ -177,6 +177,9 @@ reBot-DevArm 专为桌面级具身智能应用设计，兼顾了负载能力与�
 
 *Coming soon... 欢迎提交 PR 成为贡献者！*
 
+## Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Seeed-Projects/reBot-DevArm&type=date&legend=top-left)](https://www.star-history.com/#Seeed-Projects/reBot-DevArm&type=date&legend=top-left)
 
 
 # reBot-DevArm 项目许可证
