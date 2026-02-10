@@ -177,6 +177,10 @@ reBot-DevArmはデスクトップ級の身体性知能アプリケーション�
 *Coming soon... PRを提出してコントリビューターになりましょう！*
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Seeed-Projects/reBot-DevArm&type=date&legend=top-left)](https://www.star-history.com/#Seeed-Projects/reBot-DevArm&type=date&legend=top-left)
+
 
 # reBot-DevArm プロジェクトライセンス
 Copyright (c) [2025] [Seeed Studio AI Robotics Team]
