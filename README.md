@@ -5,6 +5,7 @@
   <img src="./media/v1.0.png" alt="reBot-DevArm Banner">
 </p>
 
+
 <p align="center">
     <!-- Replaced with CC BY-NC-SA 4.0 badge, explicitly indicating non-commercial use -->
     <a href="./LICENSE">
@@ -42,6 +43,7 @@
     <img src="https://img.shields.io/badge/Documentation-📕-blue" alt="robotics wiki"></a>
 </p>
 
+
 ## 📖 Introduction
 
 **reBot-DevArm (reBot Arm B601 DM and reBot Arm B601 RS)** is a robotic arm project dedicated to lowering the barrier to learning Embodied AI. We focus on **"True Open Source"** — not just the code, we unreservedly open source everything:
@@ -70,12 +72,12 @@ We are committed to continuously maintaining and adapting to mainstream robot de
 | **Basic Motor Usage** | ✅ Completed | Basic motion control and API encapsulation | [Damiao Technology](https://wiki.seeedstudio.com/cn/damiao_series/) |
 | **Open-Sourcing of the New STEP 3D Structural Parts and BOM** | ✅ Completed | STEP files for all parts in the new version, parts BOM, and reference prices for all machined components | [reBot Arm B601-DM BOM](./hardware/reBot_B601_DM/readme.md) |
 | **Reference for Real Machine Performance Testing** | ✅ Completed   | Performance Reference of Robotic Arm under Normal and Extreme Operating Conditions |[Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing.md) |
-| **Assembly Video** | 🚧 In Progress | Ultra-detailed assembly steps and video | [Expected: 2026.04.20] |
+| **Assembly Video** | ✅ Completed | Ultra-detailed assembly steps and video | [Getting Started with reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_b601_dm_getting_started/) |
 | **ROS2 (Humble)** | 🚧 In Progress  | Core drivers have been completed, and MoveIt2 is currently being optimized | [Expected: 2026.04.20] |
-| **Python SDK** | ✅Continuously optimized, PRs welcome | Universal motor library supporting multiple brands of joint motors | [Motorbridge](https://github.com/tianrking/MotorBridge) |
-| **Pinocchio Integration** |  ✅ Completed  | Adaptation to the Pinocchio framework, enabling forward/inverse kinematics and gravity compensation for the robotic arm | [Wiki](https://wiki.seeedstudio.com/rebot_arm_b601_dm_pinocchio_meshcat/) ||
+| **Python SDK** | ✅Continuously optimized, PRs welcome | Universal motor library supporting multiple brands of joint motors | [Getting Started with Motorbridge](https://github.com/tianrking/MotorBridge) |
+| **Pinocchio Integration** |  ✅ Completed  | Adaptation to the Pinocchio framework, enabling forward/inverse kinematics and gravity compensation for the robotic arm | [Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_dm_pinocchio_meshcat/) |
 | **Isaac Sim Simulation** | 🚧 In Progress  | Import USD models and enable simulated teleoperation | [Expected: 2026.04.20] |
-| **LeRobot Integration** | 🚧 In Progress  | Adaptation to the Hugging Face LeRobot training framework | [Expected: 2026.04.30] |
+| **LeRobot Integration** | ✅ Completed  | Adaptation to the Hugging Face LeRobot training framework | [Getting Started with LeRobot-based reBot Arm](https://wiki.seeedstudio.com/rebot_arm_b601_dm_lerobot/) |
 | **Gradual Updates of the Latest Algorithms** | ⏳ Planned | Mainstream algorithms will be updated progressively | Ongoing |
 | **Launch of a Series of Completely Free Courses** | ⏳ Planned | Mainstream algorithms will be updated progressively | Ongoing |
 

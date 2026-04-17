@@ -34,7 +34,8 @@
     <img src="https://img.shields.io/discord/1409155673572249672?color=7289DA&label=Discord&logo=discord&logoColor=white"></a>
 <a href="https://wiki.seeedstudio.com/robotics_page/">  
     <img src="https://img.shields.io/badge/Documentation-📕-blue" alt="robotics wiki"></a>
-</p
+</p>
+
 
 ## 📖 项目简介 (Introduction)
 
@@ -69,12 +70,12 @@
 | **电机基本使用** | ✅ 完成 | 基础运动控制与API封装 |[达妙科技](https://wiki.seeedstudio.com/cn/damiao_series/)|
 | **新版本STEP 3D结构件及BOM开源** | ✅ 完成 | 新版本所有零件的STEP格式、零部件BOM、及所有加工件参考价格 | [BOM](./hardware/reBot_B601_DM/readme_zh.md) |
 | **真机性能测试参考** |  ✅ 完成 | 常规工作以及极限工作下的机械臂性能参考 |  [Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_zh.md) |
-| **组装视频** | 🚧 进行中 | 超详细的组装步骤及视频 |  [预计 2026.04.20] |
-| **Python SDK** | ✅ 完成  |支持多个品牌的关节电机的通用电机库 | [motorbridge](https://github.com/tianrking/MotorBridge) |
+| **组装视频** | ✅ 完成 | 超详细的组装步骤及视频 |  [reBot Arm B601-DM 快速入门](https://wiki.seeedstudio.com/cn/rebot_b601_dm_getting_started/) |
+| **Python SDK** | ✅ 完成  |支持多个品牌的关节电机的通用电机库 | [Motorbridge工具](https://github.com/tianrking/MotorBridge) |
 | **ROS2 (Humble)** |🚧 进行中 | 核心驱动已完成，正在优化MoveIt2 |[预计 2026.04.20]|
-| **Pinocchio 适配** | ✅ 完成 | 适配 Pinocchio框架、实现机械臂正逆运动学及动力学重力补偿功能 |[Wiki](https://wiki.seeedstudio.com/cn/rebot_arm_b601_dm_pinocchio_meshcat/)|
+| **Pinocchio 适配** | ✅ 完成 | 适配 Pinocchio框架、实现机械臂正逆运动学及动力学重力补偿功能 |[reBot Arm B601-DM 的 Pinocchio 与 MeshCat 入门指南](https://wiki.seeedstudio.com/cn/rebot_arm_b601_dm_pinocchio_meshcat/)|
 | **Isaac Sim 仿真** | 🚧 进行中 | 导入USD模型并实现仿真遥操作 | [预计 2026.04.20]|
-| **LeRobot 适配** | 🚧 进行中 | 适配 Hugging Face LeRobot 训练框架 | [预计 2026.04.30]|
+| **LeRobot 适配** | 🚧 进行中 | 适配 Hugging Face LeRobot 训练框架 | [reBot Arm B601-DM Lerobot使用教程](https://wiki.seeedstudio.com/cn/rebot_arm_b601_dm_lerobot/)|
 | **逐步更新最新算法** | ⏳ 计划中 | 逐步更新主流算法 | 持续进行 |
 | **推出系列完全免费课程** | ⏳ 计划中 | 逐步更新主流算法 | 持续进行 |
 

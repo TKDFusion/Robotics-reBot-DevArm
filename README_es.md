@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/Documentation-📕-blue" alt="wiki de robótica"></a>
 </p>
 
+
 ## 📖 Introducción
 
 **reBot-DevArm (reBot Arm B601 DM y reBot Arm B601 RS)** es un proyecto de brazo robótico dedicado a reducir la barrera de aprendizaje de la IA Corpórea. Nos enfocamos en el **"Verdadero Código Abierto"** — no solo el código, abrimos todo sin reservas:
@@ -66,12 +67,12 @@ Estamos comprometidos a mantener y adaptarnos continuamente a los ecosistemas pr
 | **Uso básico del motor** | ✅ Completado | Control básico de movimiento y encapsulación de API | [Damiao Technology](https://wiki.seeedstudio.com/cn/damiao_series/) |
 | **Código abierto de las nuevas piezas estructurales 3D STEP y BOM** | ✅ Completado | Archivos STEP de todas las piezas, BOM y precios de referencia de componentes mecanizados | [reBot Arm B601-DM BOM](./hardware/reBot_B601_DM/readme_es.md) |
 | **Referencia de pruebas de rendimiento en máquina real** | ✅ Completado | Referencia de rendimiento del brazo robótico en funcionamiento normal y extremo | [Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_es.md) |
-| **Video de ensamblaje** | 🚧 En progreso | Pasos de ensamblaje ultra detallados y video | [Esperado: 2026.04.20] |
+| **Video de ensamblaje** | ✅ Completado | Pasos de ensamblaje ultra detallados y video | [Primeros pasos con el reBot Arm B601-DM](https://wiki.seeedstudio.com/es/rebot_b601_dm_getting_started/) |
 | **ROS2 (Humble)** | 🚧 En progreso | Drivers principales completados, optimización de MoveIt2 en curso | [Esperado: 2026.04.20] |
 | **Python SDK** | ✅Optimización continua, PR bienvenidos | Biblioteca de motores universal compatible con múltiples marcas de motores articulares | [motorbridge](https://github.com/tianrking/MotorBridge) |
-| **Integración con Pinocchio** | ✅ Completado | Adaptación al framework Pinocchio para cinemática directa/inversa y compensación de gravedad | [wiki](https://wiki.seeedstudio.com/es/rebot_arm_b601_dm_pinocchio_meshcat/) |
+| **Integración con Pinocchio** | ✅ Completado | Adaptación al framework Pinocchio para cinemática directa/inversa y compensación de gravedad | [Introducción a Pinocchio y MeshCat para reBot Arm B601-DM](https://wiki.seeedstudio.com/es/rebot_arm_b601_dm_pinocchio_meshcat/) |
 | **Simulación en Isaac Sim** | 🚧 En progreso | Importación de modelos USD y teleoperación simulada | [Esperado: 2026.04.20] |
-| **Integración con LeRobot** | 🚧 En progreso | Adaptación al framework LeRobot de Hugging Face | [Esperado: 2026.04.30] |
+| **Integración con LeRobot** | ✅ Completado | Adaptación al framework LeRobot de Hugging Face | [Introducción a reBot Arm B601-DM basado en LeRobot y reBot 102 Leader](https://wiki.seeedstudio.com/es/rebot_arm_b601_dm_lerobot/) |
 | **Actualizaciones graduales de los últimos algoritmos** | ⏳ Planificado | Actualización progresiva de algoritmos principales | En curso |
 | **Lanzamiento de una serie de cursos completamente gratuitos** | ⏳ Planificado | Actualización continua de contenidos educativos | En curso |
 ### reBot Arm B601 RS
