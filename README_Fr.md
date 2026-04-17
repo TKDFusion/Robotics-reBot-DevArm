@@ -19,6 +19,21 @@
   <strong>100 % entièrement open source · IA incarnée · Intégration matériel-logiciel · Gratuit pour un usage personnel/éducatif · L’utilisation commerciale nécessite une autorisation</strong>
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ONbpv3seiG8">
+        <img src="https://img.icons8.com/ios-filled/100/ff0000/youtube-play.png" width="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ONbpv3seiG8">
+        About The reBot Arm
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <strong>
     <a href="./README_zh.md">简体中文</a> &nbsp;|&nbsp;
@@ -67,7 +82,7 @@ Nous nous engageons à maintenir et à adapter en continu les principaux écosys
 | **Référence pour les tests de performance sur machine réelle** | ✅ Terminé  | Référence de performance du bras robotisé en fonctionnement normal et extrême |[Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_Fr.md) |
 | **Vidéo d’assemblage** | ✅ Terminé | Étapes d’assemblage ultra détaillées et vidéo | [Getting Started with reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_b601_dm_getting_started/) |
 | **ROS2 (Humble)** | 🚧 En cours  | Les pilotes principaux sont terminés, et MoveIt2 est actuellement en cours d’optimisation | [Prévu : 2026.04.20] |
-| **SDK Python** | ✅ Optimisation continue, PR bienvenues | Bibliothèque de moteurs universelle prenant en charge plusieurs marques de moteurs articulaires | [Motorbridge Tools](https://github.com/tianrking/MotorBridge) |
+| **SDK Python** | ✅ Optimisation continue, PR bienvenues | Intégration tout-en-un de la lecture, de l’écriture et du contrôle des moteurs Robstride, Damiao, Mota, Gaoqing, Hexfellow et autres moteurs. | [Tutoriel pour prendre en main MotorBridge](https://motorbridge.seeedstudio.com) et [Interface Web](https://rebot-devarm.w0x7ce.eu/) |
 | **Intégration Pinocchio** | ✅ Terminé   | Adaptation au framework Pinocchio, permettant la cinématique directe/inverse et la compensation gravitationnelle pour le bras robotique |[Getting Started with Pinocchio for reBot Arm B601-DM](https://wiki.seeedstudio.com/rebot_arm_b601_dm_pinocchio_meshcat/) |
 | **Simulation Isaac Sim** | 🚧 En cours  | Importation de modèles USD et activation de la téléopération simulée | [Prévu : 2026.04.20] |
 | **Intégration LeRobot** | ✅ Terminé  | Adaptation au framework d’entraînement Hugging Face LeRobot |  [Getting Started with LeRobot-based reBot Arm](https://wiki.seeedstudio.com/rebot_arm_b601_dm_lerobot/) |

@@ -19,6 +19,21 @@
   <strong>100% 完全オープンソース · Embodied AI · ハードウェア・ソフトウェア統合 · 個人利用/教育利用は無料 · 商用利用には認可が必要</strong>
 </p>
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ONbpv3seiG8">
+        <img src="https://img.icons8.com/ios-filled/100/ff0000/youtube-play.png" width="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ONbpv3seiG8">
+        About The reBot Arm
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <strong>
     <a href="./README_zh.md">简体中文</a> &nbsp;|&nbsp;
@@ -68,7 +83,7 @@
 | **実機性能テスト参考** | ✅ 完了  | 通常動作および限界動作におけるロボットアームの性能参考 |[Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_JP.md) |
 | **組み立て動画** | ✅ 完了 | 超詳細な組み立て手順と動画 | [reBot Arm B601-DM の使い始め](https://wiki.seeedstudio.com/ja/rebot_b601_dm_getting_started/) |
 | **ROS2 (Humble)** | 🚧 進行中  | コアドライバはすでに完成しており、現在 MoveIt2 を最適化中です | [予定：2026.04.20] |
-| **Python SDK** | ✅継続的な最適化、PR歓迎 | 複数ブランドの関節モーターに対応する汎用モーターライブラリ | [Motorbridge Tools](https://github.com/tianrking/MotorBridge) |
+| **Python SDK** | ✅継続的な最適化、PR歓迎 | Robstride、Damiao、脉塔（モータ）、高擎（ゴーチン）、Hexfellow など各種モーターの読み書きと制御をワンストップで統合しています。 |[MotorBridgeの使い方入門チュートリアル](https://motorbridge.seeedstudio.com) および [Web UI](https://rebot-devarm.w0x7ce.eu/) |
 | **Pinocchio 対応** | ✅ 完了   | Pinocchio フレームワークへの対応を行い、ロボットアームの順運動学/逆運動学および重力補償機能を実現 |[reBot Arm B601-DM 向け Pinocchio と MeshCat 入門](https://wiki.seeedstudio.com/ja/rebot_arm_b601_dm_pinocchio_meshcat/)  |
 | **Isaac Sim シミュレーション** | 🚧 進行中  | USD モデルをインポートし、シミュレーションによる遠隔操作を実現 | [予定：2026.04.20] |
 | **LeRobot 対応** | ✅ 完了  | Hugging Face LeRobot 学習フレームワークへの対応 | [LeRobot ベースの reBot Arm B601-DM と reBot 102 Leader 入門](https://wiki.seeedstudio.com/ja/rebot_arm_b601_dm_lerobot/) |

@@ -19,6 +19,22 @@
   <strong>100% 全开源 · 具身智能 · 软硬一体 · 个人学习科研免费 · [商用宽松条件请看这里](#权利与限制说明)</strong>
 </p>
 
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.bilibili.com/video/BV1K9dbBNEdC/?spm_id_from=333.337.search-card.all.click">
+        <img src="https://img.icons8.com/ios-filled/100/ff0000/youtube-play.png" width="40">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.bilibili.com/video/BV1K9dbBNEdC/?spm_id_from=333.337.search-card.all.click">
+        关于reBot Arm
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <strong>
     <a href="./README_zh.md">简体中文</a> &nbsp;|&nbsp;
@@ -71,7 +87,7 @@
 | **新版本STEP 3D结构件及BOM开源** | ✅ 完成 | 新版本所有零件的STEP格式、零部件BOM、及所有加工件参考价格 | [BOM](./hardware/reBot_B601_DM/readme_zh.md) |
 | **真机性能测试参考** |  ✅ 完成 | 常规工作以及极限工作下的机械臂性能参考 |  [Performance Testing](./hardware/reBot_B601_DM/performance_testing/Performance_Testing_zh.md) |
 | **组装视频** | ✅ 完成 | 超详细的组装步骤及视频 |  [reBot Arm B601-DM 快速入门](https://wiki.seeedstudio.com/cn/rebot_b601_dm_getting_started/) |
-| **Python SDK** | ✅ 完成  |支持多个品牌的关节电机的通用电机库 | [Motorbridge工具](https://github.com/tianrking/MotorBridge) |
+| **Python SDK** | ✅ 完成  |一站式集成 Robstride、Damiao、脉塔、高擎、Hexfellow 等电机读写及控制。 | [上手使用 Motorbridge教程](https://motorbridge.seeedstudio.com) 以及  [Web UI](https://rebot-devarm.w0x7ce.eu/) |
 | **ROS2 (Humble)** |🚧 进行中 | 核心驱动已完成，正在优化MoveIt2 |[预计 2026.04.20]|
 | **Pinocchio 适配** | ✅ 完成 | 适配 Pinocchio框架、实现机械臂正逆运动学及动力学重力补偿功能 |[reBot Arm B601-DM 的 Pinocchio 与 MeshCat 入门指南](https://wiki.seeedstudio.com/cn/rebot_arm_b601_dm_pinocchio_meshcat/)|
 | **Isaac Sim 仿真** | 🚧 进行中 | 导入USD模型并实现仿真遥操作 | [预计 2026.04.20]|
